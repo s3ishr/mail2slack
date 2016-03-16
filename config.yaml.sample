@@ -1,0 +1,11 @@
+# config.yaml
+
+slack:
+  webhook: "YOUR_WEBHOOK_URL"
+
+mail:
+  server:   "YOUR_MAIL_HOST"
+  user:     "USERNAME"
+  password: "PASSWORD"
+  folder:   "MAIL_DIR"
+
